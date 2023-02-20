@@ -26,6 +26,11 @@
     margin: 10px 34px;
 }
 
+#logo a
+{
+    cursor: pointer ;
+}
+
 #logo img
 {
     height: 120px;
