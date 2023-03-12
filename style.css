@@ -89,6 +89,12 @@ html
 }
 
 /* HOME SECTION */
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
 #home
 {
     display: flex;
